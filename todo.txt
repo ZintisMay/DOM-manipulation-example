@@ -1,0 +1,16 @@
+Wordle:
+
+On the page:
+
+30 boxes
+Nothing to start in them
+qwerty keyboard
+
+User interactions:
+
+type -> input went into topmost left unoccupied box
+enter -> confirms the 5 characters the player chose
+turns the letters different colors depending on success/failure
+further input goes to second line and repeats
+
+highlights the keyboard letters that you've chosen

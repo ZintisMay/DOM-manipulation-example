@@ -1,0 +1,27 @@
+HANGMAN:
+
+What you see:
+See the blank spaces for letters in the word
+Keyboard
+Also see what letters you have guessed
+Some sort of representation of guesses left
+BEAR!
+Scoreboard????
+
+
+What you do:
+Click on letters on the screen
+Guess the word
+Time Limit????
+
+What does the code do:
+Register the input
+Check to see if input is part of the string
+Makes you get eated by BEAR if you take too long or guess too wrongly
+When I guess too rightly win the game? let user know they are a cool guy
+Some sorta for loop to make sure the correct guessed letters are visible
+Unguessed letters stay as "_"
+
+Some of the complexity is in 
+    a) needing to store the letters that you have guessed
+    b) displaying the correct letters as visible and/or underscores

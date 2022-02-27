@@ -1,0 +1,19 @@
+#boxArea {
+  outline: 2px solid red;
+  padding: 1px;
+}
+.row {
+  outline: 1px solid green;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.box {
+  outline: 1px solid black;
+  height: 100px;
+  width: 20%;
+
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
